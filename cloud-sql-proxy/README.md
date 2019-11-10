@@ -32,3 +32,9 @@ kubectl get svc
 ```
 
 Get the Load Balancer IP address and visit the site. Additionally you should see a wordpress database is created on your MySQL instance.
+
+## References
+
+https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine
+
+https://github.com/GoogleCloudPlatform/kubernetes-engine-samples/blob/master/cloudsql/mysql_wordpress_deployment.yaml
